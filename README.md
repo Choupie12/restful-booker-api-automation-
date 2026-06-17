@@ -6,6 +6,9 @@ This project demonstrates API regression testing automation using Postman and Ne
 
 The objective was to automate the execution of previously designed API test cases, validate responses, verify business rules, and generate execution reports.
 
+Note: Testing was performed against the public Restful Booker API environment. As the environment is shared and continuously updated, some results may vary between executions.
+
+
 ## Scope
 
 The following API endpoints were tested:
